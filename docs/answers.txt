@@ -1,1 +1,54 @@
-g
+Vinson Thomas(vdt16)
+
+(A)
+$ git commit answers.txt
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+(B)
+9 commits have been done so far
+Used git log to do so
+
+(C)
+git log and git status used to see the modification of .gitignore
+
+commit e424a923e80da4772ca789591ef3326230062a71
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Wed Sep 25 18:13:30 2019 -0400
+
+    -> Tracking .gitignore
+
+(D)
+YOu can use branches to safely manage workflow and separate processes
+You also use branches to prevent merging and changes
+
+(E)
+git log shows when a file was commited and git status shows when a file was modified
+
+(F)
+I would use the command "git log vehicle.h" to see where any commits related to Vehicle.h is involved.
+
+(G)
+You would use the command git log --grep=“file“ 
+
+(F)
+Inheritance is the capability of a class to derive properties and characteristics from another class.
+Polymorphism is hierarchy of classes and they are related by inheritance.
+Encapsulation is the process of combining data members and functions in a single unit called class.
+
+
+(I)
+In integration workflow each developer makes push to their own public repository, 
+and pull from the blessed/central repository
+In the Director and lieutenants workflow Everyone makes pull from the blessed/central repository and 
+only the dictator can push to it.
+With integration each developer has control, but with director and lieutenants one 
+person has the control.
+
+
+(J)
+With centralized workflow developers have to make their own changes with no review by anyone, but 
+if there were 100 developers they would benefit fromthe dictator and lieutenants work flow so there file will be reviewed by the lieutenants and accepted by the dictator.
