@@ -1,15 +1,24 @@
 #include "Skateboard.h"
 
-Skateboard::Skateboard(string brand, string model) 
+Skateboard::Skateboard(string brand, string model, string wood) 
 {
-    setBrand(brand);
-    setModel(model);
+    	setBrand(brand);
+    	setModel(model);
+	setBoardWood(wood);
     
 }
 
 Skateboard::~Skateboard() = default;
 
+string Skateboard::getBoardWood()
+{
+	return typeOfWood;
+}
 
+void Skateboard::setBoardWood(string wood)
+{
+	typeOfWood = wood;
+}
 
 double Skateboard::mileageEstimate(double time) 
 {
@@ -20,6 +29,7 @@ double Skateboard::mileageEstimate(double time)
 	}
     	return mileage;
 }
+
 
 string Skateboard::toString() 
 {
