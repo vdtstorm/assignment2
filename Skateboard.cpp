@@ -34,5 +34,6 @@ double Skateboard::mileageEstimate(double time)
 string Skateboard::toString() 
 {
     
-    	return "-> Skateboard\n" + Vehicle::toString();
+    	return "-> Skateboard\n" + Vehicle::toString() + "\n\tWood: " +
+           getBoardWood();
 }
