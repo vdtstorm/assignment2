@@ -1,4 +1,5 @@
-// Vinson Thomas 
+// Vinson Thomas(vdt16)
+ 
 #ifndef DRIVINGSIMULATOR_SKATEBOARD_H
 #define DRIVINGSIMULATOR_SKATEBOARD_H
 
