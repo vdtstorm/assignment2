@@ -20,8 +20,8 @@ int main() {
     vehiclesArray[5] = new Car("BMW", "X5", "diesel", "grande");
 	vehiclesArray[6] = new Semi("MAC10", "X5", "diesel", "grande"); // adding test cases
 	vehiclesArray[7] = new Semi("Volvo", "X8", "Disel", "Really big");
-	vehiclesArray[8] = new Skateboard("Santa Cruz", "Baker Kader");
-	vehiclesArray[9] = new Skateboard("Zero Skateboards", "Baker");
+	vehiclesArray[8] = new Skateboard("Santa Cruz", "Baker Kader", "Maple");
+	vehiclesArray[9] = new Skateboard("Zero Skateboards", "Baker", "Cypress");
 	vehiclesArray[10] = new Jet("Learjet", "31", "diesel", 7);
 	vehiclesArray[11] = new Jet("Hawker", "400", "Rocket", 10);
 
