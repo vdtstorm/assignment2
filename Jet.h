@@ -17,7 +17,7 @@ class Jet : public PoweredVehicle
 
 	virtual ~Jet();
 	int getEngineNumber();
-	void setEngineNumber();
+	void setEngineNumber(int engineNumber);
 	virtual double mileageEstimate(double time);
 	virtual string toString();
 
