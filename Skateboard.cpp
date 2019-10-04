@@ -1,3 +1,5 @@
+//Vinson Thomas(vdt16)
+// similar format to code given by TA's
 #include "Skateboard.h"
 
 Skateboard::Skateboard(string brand, string model, string wood) 
