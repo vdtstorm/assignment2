@@ -52,3 +52,8 @@ person has the control.
 (J)
 With centralized workflow developers have to make their own changes with no review by anyone, but 
 if there were 100 developers they would benefit fromthe dictator and lieutenants work flow so there file will be reviewed by the lieutenants and accepted by the dictator.
+
+(5)OOP Priciples
+The driver simulator prototype is using both polymorphism and encapsulation. Encapsulation is combining member data and functions into a single unit which is a class and the driving simulator 
+prototype has many funcitions. It has polymorphism because their is in obvious hierarchy of classes 
+which is inheritance.  
