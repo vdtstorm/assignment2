@@ -1,3 +1,5 @@
+//Vinson Thomas(vdt16)
+//Made in similar format to given code
 #include "Semi.h"
 
 Semi::Semi() 
