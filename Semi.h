@@ -1,3 +1,6 @@
+//Vinson Thomas(vdt16)
+//Made in similar format to code given
+
 #ifndef DRIVINGSIMULATOR_SEMI_H
 #define DRIVINGSIMULATOR_SEMI_H
 
