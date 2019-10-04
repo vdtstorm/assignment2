@@ -16,7 +16,7 @@ double Skateboard::mileageEstimate(double time)
     	double mileage = .5 * time;
     	if(time > 25 && time < 250)
 	{
-		mileage += mileage +  (.333*time);
+		mileage += (.333*time);
 	}
     	return mileage;
 }
