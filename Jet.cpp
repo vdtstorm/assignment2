@@ -1,5 +1,6 @@
 
 //Vinson Thomas(vdt16)
+// Made in similar format to files given by TA's
 #include  "Jet.h"
 
 Jet::Jet()
