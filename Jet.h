@@ -1,6 +1,6 @@
 // vinson Thomas(vdt16)
 // 9/30/19
-
+// Made in similar format to files added by TA's
 #ifndef DRIVINGSIMULATOR_JET_H
 #define DRIVINGSIMULATOR_JET_H
 
