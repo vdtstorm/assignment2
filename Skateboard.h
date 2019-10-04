@@ -2,7 +2,7 @@
 #define DRIVINGSIMULATOR_SKATEBOARD_H
 
 #include "Vehicle.h"
-class Skateboard : public vehicle
+class Skateboard : public Vehicle
 {
 	public:
 	explicit Skateboard(string brand, string model); 
